@@ -1,5 +1,7 @@
 from flask import Flask
 
+
+
 app = Flask(__name__)
 
 # Read data from a file (e.g., "data.txt")
